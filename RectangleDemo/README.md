@@ -15,3 +15,7 @@ Rules:
  Customization:
   - Set R[58:LAYERS] to the number of layers desired (starting from 1 and inclusive end)
   - Adjust R[50:ClearenceHt] in `REFTEST.LS` to change clearance height for both entry and exit
+
+Registers Used:
+  - R[50] - R[60]
+  - PR[50]-PR[53]
