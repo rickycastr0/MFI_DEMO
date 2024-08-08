@@ -1,4 +1,4 @@
-RECT_TEST_1.LS: Program that takes 2 points from the user and creates a rectangular prism through the use of the additive mig welding feature. Calls on `REF_TEST.LS` for backend register updates. 
+`RECTTEST1.LS`: Program that takes 2 points from the user and creates a rectangular prism through the use of the additive mig welding feature. Calls on `REF_TEST.LS` for backend register updates. 
 
 Changes Needed:
 
